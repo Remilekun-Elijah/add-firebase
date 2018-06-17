@@ -1,0 +1,16 @@
+{
+    "app-content" : {
+      "data" : {
+        "app_name": "PWA Fire Firebase Codelab",
+        "app_desc": "The content on this web app is served by Firebase Realtime database. It's so magical! All you need to do is update your realtime database with Firebase. No more redeployments over and over again. No more thoughts for Wordpress again.",
+        "btn_1": "Learn More",
+        "recent_work_title": "Your Recent Work",
+        "work_title_1": "Add Your Work Title",
+        "work_desc_1": "Maybe a little more description here? Add some!",
+        "work_title_2": "Add Your Work Title",
+        "work_desc_2": "Maybe a little more description here? Add some!",
+        "btn_2": "Read More"
+      }
+    }
+  }
+  
