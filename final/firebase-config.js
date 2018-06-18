@@ -9,8 +9,8 @@
   };
   firebase.initializeApp(config);
   // get a reference to the row of our database called "app-content"
-  var meetupRef = firebase.database().ref('app-content').orderByKey();
-  meetupRef.once('value')
+  var appRef = firebase.database().ref('app-content').orderByKey();
+  appRef.once('value')
     .then(function(snapshot) {
         snapshot.forEach(function(childSnapshot) {
             var key = childSnapshot.key;
